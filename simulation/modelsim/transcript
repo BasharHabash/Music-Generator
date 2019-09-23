@@ -1,0 +1,4 @@
+# Compile of tb_ToneGenerator.v was successful with warnings.
+# Compile of ToneGenerator.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -i -l msim_transcript ToneGenerator_work.tb_ToneGenerator

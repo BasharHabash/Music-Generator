@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/bashar/Desktop/cs3700/ToneGenerator/simulation/modelsim
+vtb_ToneGenerator
+!s110 1556063411
+!i10b 1
+!s100 ?:^DbaUHU:zm>oO?on<W>0
+IFhSG^OeZ@>LIO:i81j[E@1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1556063390
+8/home/bashar/Desktop/cs3700/ToneGenerator/tb_ToneGenerator.v
+F/home/bashar/Desktop/cs3700/ToneGenerator/tb_ToneGenerator.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1556063411.000000
+!s107 /home/bashar/Desktop/cs3700/ToneGenerator/tb_ToneGenerator.v|
+!s90 -reportprogress|300|-work|ToneGenerator_work|-stats=none|/home/bashar/Desktop/cs3700/ToneGenerator/tb_ToneGenerator.v|
+!i113 1
+Z4 o-work ToneGenerator_work
+Z5 tCvgOpt 0
+ntb_@tone@generator
+vToneGenerator
+!s110 1556063412
+!i10b 1
+!s100 39fm63PD9<DTDGMOOgNP>0
+InOPXkaTZ:k9THA>:cgh:R3
+R1
+R0
+w1555716899
+8/home/bashar/Desktop/cs3700/ToneGenerator/ToneGenerator.v
+F/home/bashar/Desktop/cs3700/ToneGenerator/ToneGenerator.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 /home/bashar/Desktop/cs3700/ToneGenerator/ToneGenerator.v|
+!s90 -reportprogress|300|-work|ToneGenerator_work|-stats=none|/home/bashar/Desktop/cs3700/ToneGenerator/ToneGenerator.v|
+!i113 1
+R4
+R5
+n@tone@generator

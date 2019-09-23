@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at FSM.v(14): always construct contains both blocking and non-blocking assignments File: /home/bashar/Desktop/cs3700/ToneGenerator/FSM.v Line: 14

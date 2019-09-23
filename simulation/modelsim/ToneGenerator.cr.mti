@@ -1,0 +1,16 @@
+/home/bashar/Desktop/cs3700/ToneGenerator/ToneGenerator.v {1 {vlog -work ToneGenerator_work -stats=none /home/bashar/Desktop/cs3700/ToneGenerator/ToneGenerator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ToneGenerator
+
+Top level modules:
+	ToneGenerator
+
+} {} {}} /home/bashar/Desktop/cs3700/ToneGenerator/tb_ToneGenerator.v {2 {vlog -work ToneGenerator_work -stats=none /home/bashar/Desktop/cs3700/ToneGenerator/tb_ToneGenerator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+** Warning: /home/bashar/Desktop/cs3700/ToneGenerator/tb_ToneGenerator.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+-- Compiling module tb_ToneGenerator
+
+Top level modules:
+	tb_ToneGenerator
+
+} {} {}}

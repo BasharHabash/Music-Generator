@@ -1,0 +1,20 @@
+module A(clk, A);
+	 input clk;
+	 output reg A;
+	 
+	 
+	 reg [17:0] count;
+	 initial A = 1'b0;
+	 
+	 always@ (posedge clk)
+	 begin
+		count <= count + 1'b1;
+		
+		if (count == 113636)
+		begin
+			A <= !A;
+			count <= 0;
+		end
+	 end
+
+endmodule

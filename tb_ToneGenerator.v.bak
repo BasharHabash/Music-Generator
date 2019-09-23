@@ -1,0 +1,24 @@
+//`timescale 1ms/1ps;
+
+module tb_ToneGenerator;
+
+   reg [3:0] S;
+   reg       clk;
+   wire 	  	out;
+	
+	ToneGenerator uut (.S(S),.clk(clk),.out(out));
+	
+	initial begin
+	
+	clk = 0;
+	S = 4'b0000; #100;
+	S = 4'b0001; #100000000;
+	S = 4'b0111; #100000000;
+	S = 4'b1000; #100000000;
+	S = 4'b1100; #100000000;
+	
+	end
+	
+	always #5 clk = ~clk;
+	
+endmodule 
